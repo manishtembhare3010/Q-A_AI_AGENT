@@ -1,3 +1,6 @@
+
+<img width="1435" alt="Screenshot 2025-05-21 at 2 06 36 PM" src="https://github.com/user-attachments/assets/0d72937c-46c0-469c-93f9-795e3d3b8386" />
+
 # Knowledge-Based AI Agent
 
 A FastAPI-based backend for a Retrieval-Augmented Generation (RAG) agent that uses documents, Excel, emails, and CRM data for intelligent information retrieval and question answering.
