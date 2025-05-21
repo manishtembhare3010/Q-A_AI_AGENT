@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+llama-index
+faiss-cpu
+openai
+pydantic
+python-docx
+pandas
+ollama
+
